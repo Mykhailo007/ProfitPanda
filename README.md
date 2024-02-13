@@ -1,5 +1,4 @@
 # ProfitPanda
-# ProfitPanda
 
 Welcome to ProfitPanda, your intuitive and dynamic AI-driven stock analysis tool designed to empower investors by providing actionable insights and stock picks. ProfitPanda leverages cutting-edge machine learning algorithms to analyze market trends, financial news, and historical data, making it easier for both novice and experienced traders to make informed investment decisions.
 
@@ -8,18 +7,22 @@ Welcome to ProfitPanda, your intuitive and dynamic AI-driven stock analysis tool
 - **AI-Powered Stock Screening**: ProfitPanda scans thousands of stocks in real-time, evaluating them based on performance metrics, market sentiment, and financial indicators.
 - **Customizable Filters**: Tailor your investment strategy by setting personalized criteria, including risk tolerance, sector preferences, and financial goals.
 - **Market Insights**: Get daily market summaries, trending stock alerts, and sector-wise performance analysis.
-- **Portfolio Tracker**: Monitor your investments, track your portfolio's performance, and receive personalized recommendations to optimize your asset allocation.
-- **Educational Resources**: Access a wealth of resources to learn about stock market basics, advanced trading strategies, and AI's role in finance.
 
 ## Getting Started
 
-To start using ProfitPanda, follow these simple steps:
+1. **Explore the Dashboard**: Start on the main dashboard to see real-time market trends and AI recommendations.
 
-1. **Sign Up**: Register for an account on the ProfitPanda website.
-2. **Customize Your Profile**: Set up your investment preferences and risk profile.
-3. **Explore Stocks**: Use our AI-powered tools to discover and analyze potential investments.
-4. **Build Your Portfolio**: Add stocks to your virtual portfolio and track their performance.
-5. **Stay Informed**: Receive daily insights and alerts tailored to your interests.
+2. **Customize Your Experience**: Adjust settings for sectors, risk tolerance, and goals to personalize insights.
+
+3. **AI-Powered Stock Screening**: Use the stock screener with your criteria to find stocks that match your investment profile.
+
+4. **Analyze Stock Details**: Select stocks to view detailed analyses, including historical data, financials, and AI-driven forecasts.
+
+5. **Market Insights**: Visit this section daily for market summaries, trend analysis, and investment opportunities.
+
+6. **Feedback and Suggestions**: Use the feedback form to share your thoughts and suggestions on improving ProfitPanda.
+
+This streamlined approach allows you to quickly engage with ProfitPanda's features and start enhancing your investment strategy.
 
 ## Technologies Used
 
